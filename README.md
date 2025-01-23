@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyberSaikat/smp-app/main/assets/images/Smart.png" alt="Leading Image" width="100%">
+  <img src="https://raw.githubusercontent.com/sculptorofcode/smp-app/main/assets/images/Smart.png" alt="Leading Image" width="100%">
 </p>
 
 # 🎓 Student Management Portal (SMP)
@@ -76,7 +76,7 @@ Student Management Portal (SMP) is a comprehensive mobile application built with
 
 1. **📂 Clone the repository**:
    ```bash
-   git clone https://github.com/CyberSaikat/smp-app.git
+   git clone https://github.com/sculptorofcode/smp-app.git
    ```
 2. **📦 Install dependencies**:
     ```bash
