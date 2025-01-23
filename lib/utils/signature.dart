@@ -36,7 +36,7 @@ class _SignaturePageState extends State<SignaturePage> {
             },
           ),
         )
-        ..loadRequest(Uri.parse("https://github.com/sculptorofcode"));
+        ..loadRequest(Uri.parse("https://linktr.ee/sculptor_of_code"));
     } catch (e) {
       print(e);
     }
